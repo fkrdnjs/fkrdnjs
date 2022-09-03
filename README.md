@@ -1,13 +1,13 @@
-<div>
+<div style="display:flex">
   
+  <div>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffkrdnjs&count_bg=%23883DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rakwon1617)](https://solved.ac/rakwon1617/)
+  </div>
   
-</div>
-
-
-# 💪Skills
+  <div>
+  # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -20,3 +20,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+  </div>
+  
+</div>
+
