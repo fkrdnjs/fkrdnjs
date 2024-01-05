@@ -39,7 +39,7 @@
 
 </div>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=paradise999&postId=31&theme=default)](https://paradise999.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=paradise999&postId=37&theme=default)](https://paradise999.tistory.com)
 
 
 
