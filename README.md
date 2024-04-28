@@ -39,9 +39,6 @@
 
 </div>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=paradise999&postId=37&theme=default)](https://paradise999.tistory.com)
-
-
 
 ## Contact
 <div style="display:flex; flex-direction:row;">
