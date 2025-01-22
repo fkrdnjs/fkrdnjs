@@ -28,6 +28,8 @@
 </div>
 
 
+  <!--
+  
 ## Blog
 <div style="display:flex; flex-direction:row;">
     <a href="https://paradise999.tistory.com/">
@@ -39,6 +41,7 @@
 
 </div>
 
+-->
 
 ## Contact
 <div style="display:flex; flex-direction:row;">
